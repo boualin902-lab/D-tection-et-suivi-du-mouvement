@@ -195,6 +195,20 @@ Source : [celltrackingchallenge.net](https://celltrackingchallenge.net/2d-datase
 
 ---
 
+## Captures d'écran
+
+![lecture](partie1_lecture.png)
+![difference](partie2_difference.png)
+![seuillage](partie3_seuillage.png)
+![morphologie](partie4_morphologie.png)
+![detection](partie5_detection.png)
+![trajectoire](partie8_trajectoire.png)
+![trajectoire2D](partie9_trajectoire2D.png)
+![vitesse](partie_10_vitesse.png)
+
+
+
+
 ## 👩‍💻 Auteur
 
 **boualin902-lab**  
